@@ -1,0 +1,14 @@
+G:\TechnicalTest.MasGlobal.Hgaray\TestDao\bin\Release\netcoreapp2.1\TestDao.deps.json
+G:\TechnicalTest.MasGlobal.Hgaray\TestDao\bin\Release\netcoreapp2.1\TestDao.dll
+G:\TechnicalTest.MasGlobal.Hgaray\TestDao\bin\Release\netcoreapp2.1\TestDao.pdb
+G:\TechnicalTest.MasGlobal.Hgaray\TestDao\bin\Release\netcoreapp2.1\TestDto.dll
+G:\TechnicalTest.MasGlobal.Hgaray\TestDao\bin\Release\netcoreapp2.1\TestHelpers.dll
+G:\TechnicalTest.MasGlobal.Hgaray\TestDao\bin\Release\netcoreapp2.1\TestDto.pdb
+G:\TechnicalTest.MasGlobal.Hgaray\TestDao\bin\Release\netcoreapp2.1\TestHelpers.pdb
+G:\TechnicalTest.MasGlobal.Hgaray\TestDao\obj\Release\netcoreapp2.1\TestDao.csprojAssemblyReference.cache
+G:\TechnicalTest.MasGlobal.Hgaray\TestDao\obj\Release\netcoreapp2.1\TestDao.csproj.CoreCompileInputs.cache
+G:\TechnicalTest.MasGlobal.Hgaray\TestDao\obj\Release\netcoreapp2.1\TestDao.AssemblyInfoInputs.cache
+G:\TechnicalTest.MasGlobal.Hgaray\TestDao\obj\Release\netcoreapp2.1\TestDao.AssemblyInfo.cs
+G:\TechnicalTest.MasGlobal.Hgaray\TestDao\obj\Release\netcoreapp2.1\TestDao.csproj.CopyComplete
+G:\TechnicalTest.MasGlobal.Hgaray\TestDao\obj\Release\netcoreapp2.1\TestDao.dll
+G:\TechnicalTest.MasGlobal.Hgaray\TestDao\obj\Release\netcoreapp2.1\TestDao.pdb

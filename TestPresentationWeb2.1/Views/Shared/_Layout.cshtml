@@ -1,0 +1,42 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Insurance- @ViewBag.title</title>
+
+    <environment include="Development">
+        <link href="~/assets/css/bootstrap.min.css" rel="stylesheet" />
+        <link href="~/assets/css/bootstrap-theme.min.css" rel="stylesheet" />
+        <script src="~/assets/js/jquery.min.js"></script>
+    </environment>
+        
+</head>
+<body>
+    <div class="jumbotron">
+        <h1 class="display-4">Test-Hgaray</h1>
+        <hr class="my-4">
+
+        <div class="container">
+
+
+            .@RenderBody()
+        </div>
+
+    </div>
+
+    <environment include="Development">
+        <script src="~/assets/js/bootstrap.min.js"></script>
+        <script src="~/assets/js/jquery.validate.min.js"></script>
+        <script src="~/assets/js/jquery.validate.unobtrusive.min.js"></script>
+        <script src="~/assets/js/jquery.anexgrid.min.js"></script>
+        <script src="~/assets/js/jquery.form.js"></script>
+    </environment>
+        
+</body>
+</html>

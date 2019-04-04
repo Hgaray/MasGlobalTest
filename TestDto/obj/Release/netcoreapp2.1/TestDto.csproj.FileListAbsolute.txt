@@ -1,0 +1,8 @@
+G:\TechnicalTest.MasGlobal.Hgaray\TestDto\bin\Release\netcoreapp2.1\TestDto.deps.json
+G:\TechnicalTest.MasGlobal.Hgaray\TestDto\bin\Release\netcoreapp2.1\TestDto.dll
+G:\TechnicalTest.MasGlobal.Hgaray\TestDto\bin\Release\netcoreapp2.1\TestDto.pdb
+G:\TechnicalTest.MasGlobal.Hgaray\TestDto\obj\Release\netcoreapp2.1\TestDto.csproj.CoreCompileInputs.cache
+G:\TechnicalTest.MasGlobal.Hgaray\TestDto\obj\Release\netcoreapp2.1\TestDto.AssemblyInfoInputs.cache
+G:\TechnicalTest.MasGlobal.Hgaray\TestDto\obj\Release\netcoreapp2.1\TestDto.AssemblyInfo.cs
+G:\TechnicalTest.MasGlobal.Hgaray\TestDto\obj\Release\netcoreapp2.1\TestDto.dll
+G:\TechnicalTest.MasGlobal.Hgaray\TestDto\obj\Release\netcoreapp2.1\TestDto.pdb

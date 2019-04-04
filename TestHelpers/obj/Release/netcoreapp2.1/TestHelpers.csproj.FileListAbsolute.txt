@@ -1,0 +1,8 @@
+G:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\bin\Release\netcoreapp2.1\TestHelpers.deps.json
+G:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\bin\Release\netcoreapp2.1\TestHelpers.dll
+G:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\bin\Release\netcoreapp2.1\TestHelpers.pdb
+G:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\obj\Release\netcoreapp2.1\TestHelpers.csproj.CoreCompileInputs.cache
+G:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\obj\Release\netcoreapp2.1\TestHelpers.AssemblyInfoInputs.cache
+G:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\obj\Release\netcoreapp2.1\TestHelpers.AssemblyInfo.cs
+G:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\obj\Release\netcoreapp2.1\TestHelpers.dll
+G:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\obj\Release\netcoreapp2.1\TestHelpers.pdb

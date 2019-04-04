@@ -1,0 +1,17 @@
+G:\TechnicalTest.MasGlobal.Hgaray\TestDto\bin\Debug\netcoreapp2.1\TestDto.deps.json
+G:\TechnicalTest.MasGlobal.Hgaray\TestDto\bin\Debug\netcoreapp2.1\TestDto.dll
+G:\TechnicalTest.MasGlobal.Hgaray\TestDto\bin\Debug\netcoreapp2.1\TestDto.pdb
+G:\TechnicalTest.MasGlobal.Hgaray\TestDto\obj\Debug\netcoreapp2.1\TestDto.csproj.CoreCompileInputs.cache
+G:\TechnicalTest.MasGlobal.Hgaray\TestDto\obj\Debug\netcoreapp2.1\TestDto.AssemblyInfoInputs.cache
+G:\TechnicalTest.MasGlobal.Hgaray\TestDto\obj\Debug\netcoreapp2.1\TestDto.AssemblyInfo.cs
+G:\TechnicalTest.MasGlobal.Hgaray\TestDto\obj\Debug\netcoreapp2.1\TestDto.dll
+G:\TechnicalTest.MasGlobal.Hgaray\TestDto\obj\Debug\netcoreapp2.1\TestDto.pdb
+G:\TechnicalTest.MasGlobal.Hgaray\TestDto\obj\Debug\netcoreapp2.1\TestDto.csprojAssemblyReference.cache
+F:\TechnicalTest.MasGlobal.Hgaray\TestDto\bin\Debug\netcoreapp2.1\TestDto.deps.json
+F:\TechnicalTest.MasGlobal.Hgaray\TestDto\bin\Debug\netcoreapp2.1\TestDto.dll
+F:\TechnicalTest.MasGlobal.Hgaray\TestDto\bin\Debug\netcoreapp2.1\TestDto.pdb
+F:\TechnicalTest.MasGlobal.Hgaray\TestDto\obj\Debug\netcoreapp2.1\TestDto.csproj.CoreCompileInputs.cache
+F:\TechnicalTest.MasGlobal.Hgaray\TestDto\obj\Debug\netcoreapp2.1\TestDto.AssemblyInfoInputs.cache
+F:\TechnicalTest.MasGlobal.Hgaray\TestDto\obj\Debug\netcoreapp2.1\TestDto.AssemblyInfo.cs
+F:\TechnicalTest.MasGlobal.Hgaray\TestDto\obj\Debug\netcoreapp2.1\TestDto.dll
+F:\TechnicalTest.MasGlobal.Hgaray\TestDto\obj\Debug\netcoreapp2.1\TestDto.pdb

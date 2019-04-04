@@ -1,0 +1,17 @@
+G:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\bin\Debug\netcoreapp2.1\TestHelpers.deps.json
+G:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\bin\Debug\netcoreapp2.1\TestHelpers.dll
+G:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\bin\Debug\netcoreapp2.1\TestHelpers.pdb
+G:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.csproj.CoreCompileInputs.cache
+G:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.AssemblyInfoInputs.cache
+G:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.AssemblyInfo.cs
+G:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.dll
+G:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.pdb
+G:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.csprojAssemblyReference.cache
+F:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\bin\Debug\netcoreapp2.1\TestHelpers.deps.json
+F:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\bin\Debug\netcoreapp2.1\TestHelpers.dll
+F:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\bin\Debug\netcoreapp2.1\TestHelpers.pdb
+F:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.csproj.CoreCompileInputs.cache
+F:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.AssemblyInfoInputs.cache
+F:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.AssemblyInfo.cs
+F:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.dll
+F:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.pdb
