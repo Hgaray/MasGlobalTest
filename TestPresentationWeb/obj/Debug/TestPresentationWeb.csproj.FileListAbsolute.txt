@@ -685,7 +685,6 @@ D:\PruebasConcepto\Test\MasGlobalTest\TestPresentationWeb\bin\es\System.Web.Webp
 D:\PruebasConcepto\Test\MasGlobalTest\TestPresentationWeb\bin\es\System.Web.Webpages.Razor.resources.dll
 D:\PruebasConcepto\Test\MasGlobalTest\TestPresentationWeb\bin\es\System.Web.Helpers.resources.dll
 D:\PruebasConcepto\Test\MasGlobalTest\TestPresentationWeb\bin\es\System.Web.Mvc.resources.dll
-D:\PruebasConcepto\Test\MasGlobalTest\TestPresentationWeb\obj\Debug\TestPresentationWeb.csprojAssemblyReference.cache
 D:\PruebasConcepto\Test\MasGlobalTest\TestPresentationWeb\obj\Debug\TestPresentationWeb.csproj.CoreCompileInputs.cache
 D:\PruebasConcepto\Test\MasGlobalTest\TestPresentationWeb\obj\Debug\TestPresentationWeb.csproj.CopyComplete
 D:\PruebasConcepto\Test\MasGlobalTest\TestPresentationWeb\obj\Debug\TestPresentationWeb.dll

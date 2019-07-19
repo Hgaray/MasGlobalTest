@@ -44,8 +44,8 @@ namespace TechnicalTest.MasGlobal.Hgaray
                 {
                     Title = "Hgaray MasGlobal Test",
                     Version = "v1",
-                    Description = "Maintenances Statutes",
-                    TermsOfService = "Statutes"
+                    Description = "Hgaray MasGlobal Test",
+                    TermsOfService = "Test"
                 });
             });
 
