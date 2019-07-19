@@ -37,6 +37,18 @@ namespace TechnicalTest.MasGlobal.Hgaray
 
             services.AddSingleton(Configuration);
 
+            services.AddSwaggerGen(options =>
+            {
+                options.DescribeAllEnumsAsStrings();
+                options.SwaggerDoc("v1", new Swashbuckle.AspNetCore.Swagger.Info()
+                {
+                    Title = "Maintenances - Maintenance HTTP API",
+                    Version = "v1",
+                    Description = "Maintenances Statutes",
+                    TermsOfService = "Statutes"
+                });
+            });
+
             MyMaps.Initialize();
         }
 
@@ -51,6 +63,11 @@ namespace TechnicalTest.MasGlobal.Hgaray
             {
                 app.UseHsts();
             }
+
+            app.UseSwagger().UseSwaggerUI(c => {
+                c.SwaggerEndpoint($"/swagger/v1/swagger.json", "My API V1");
+            });
+
 
             app.UseHttpsRedirection();
             app.UseMvc();

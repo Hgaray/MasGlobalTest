@@ -23,3 +23,4 @@ D:\Test\MasGlobal\MasGlobalTest\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.
 D:\Test\MasGlobal\MasGlobalTest\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.AssemblyInfo.cs
 D:\Test\MasGlobal\MasGlobalTest\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.dll
 D:\Test\MasGlobal\MasGlobalTest\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.pdb
+D:\Test\MasGlobal\MasGlobalTest\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.csprojAssemblyReference.cache

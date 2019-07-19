@@ -16,8 +16,6 @@ namespace TestLogic
 {
     public class EmployeeLogic: IEmployeeLogic
     {
-        // public async Task<IEnumerable<EmployeeDTO>> GetById(int id)
-
         private IEmployeeRepository _EmployeeLogic;
         public EmployeeLogic(IEmployeeRepository employeeLogic)
         {
@@ -53,8 +51,6 @@ namespace TestLogic
 
                 throw;
             }
-            
-
         }
 
         public async Task<List<EmployeeSalary>> GetById(int Id)
