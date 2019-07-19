@@ -8,10 +8,19 @@ namespace TestDto
     {
         public override void CalculateSalary()
         {
-            if (ContractTypeName == "HourlySalaryEmployee")
+            try
             {
-                AnnualSalary = 120 * HourlySalary * 12;
+                if (ContractTypeName == "HourlySalaryEmployee")
+                {
+                    AnnualSalary = 120 * HourlySalary * 12;
+                }
             }
+            catch (Exception)
+            {
+
+                throw;
+            }
+           
         }
     }
 }

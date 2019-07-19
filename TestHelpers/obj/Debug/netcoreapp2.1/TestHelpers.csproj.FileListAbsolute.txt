@@ -15,3 +15,11 @@ F:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\obj\Debug\netcoreapp2.1\TestHelper
 F:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.AssemblyInfo.cs
 F:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.dll
 F:\TechnicalTest.MasGlobal.Hgaray\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.pdb
+D:\Test\MasGlobal\MasGlobalTest\TestHelpers\bin\Debug\netcoreapp2.1\TestHelpers.deps.json
+D:\Test\MasGlobal\MasGlobalTest\TestHelpers\bin\Debug\netcoreapp2.1\TestHelpers.dll
+D:\Test\MasGlobal\MasGlobalTest\TestHelpers\bin\Debug\netcoreapp2.1\TestHelpers.pdb
+D:\Test\MasGlobal\MasGlobalTest\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.csproj.CoreCompileInputs.cache
+D:\Test\MasGlobal\MasGlobalTest\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.AssemblyInfoInputs.cache
+D:\Test\MasGlobal\MasGlobalTest\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.AssemblyInfo.cs
+D:\Test\MasGlobal\MasGlobalTest\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.dll
+D:\Test\MasGlobal\MasGlobalTest\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.pdb

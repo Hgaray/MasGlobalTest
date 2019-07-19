@@ -28,49 +28,67 @@ namespace TestLogic
 
         public async Task<List<EmployeeSalary>> GetAll()
         {
-            List<EmployeeSalary> respuesta = new List<EmployeeSalary>();
 
-            var result = await _EmployeeLogic.GetAll();
+            try
+            {
+                List<EmployeeSalary> respuesta = new List<EmployeeSalary>();
 
-            var hourlyList = result.Where(x => x.ContractTypeName == ConstantValues.ContractHourly).ToList();
-            var monthlyList = result.Where(x => x.ContractTypeName == ConstantValues.ContractMonthly).ToList();
-            var employeeHourlyList = Mapper.Map<IEnumerable<Employee>, IEnumerable<HourlyEmployeeDTO>>(hourlyList).ToList();
-            var employeeMonthlyList = Mapper.Map<IEnumerable<Employee>, IEnumerable<MonthlyEmployeeDTO>>(monthlyList).ToList();
+                var result = await _EmployeeLogic.GetAll();
 
-            employeeHourlyList.ForEach(x => x.CalculateSalary());
-            employeeMonthlyList.ForEach(x => x.CalculateSalary());
+                var hourlyList = result.Where(x => x.ContractTypeName == ConstantValues.ContractHourly).ToList();
+                var monthlyList = result.Where(x => x.ContractTypeName == ConstantValues.ContractMonthly).ToList();
+                var employeeHourlyList = Mapper.Map<IEnumerable<Employee>, IEnumerable<HourlyEmployeeDTO>>(hourlyList).ToList();
+                var employeeMonthlyList = Mapper.Map<IEnumerable<Employee>, IEnumerable<MonthlyEmployeeDTO>>(monthlyList).ToList();
 
-            respuesta.AddRange(Mapper.Map<IEnumerable<HourlyEmployeeDTO>, IEnumerable<EmployeeSalary>>(employeeHourlyList).ToList());
-            respuesta.AddRange(Mapper.Map<IEnumerable<MonthlyEmployeeDTO>, IEnumerable<EmployeeSalary>>(employeeMonthlyList).ToList());
+                employeeHourlyList.ForEach(x => x.CalculateSalary());
+                employeeMonthlyList.ForEach(x => x.CalculateSalary());
 
-            return respuesta;
+                respuesta.AddRange(Mapper.Map<IEnumerable<HourlyEmployeeDTO>, IEnumerable<EmployeeSalary>>(employeeHourlyList).ToList());
+                respuesta.AddRange(Mapper.Map<IEnumerable<MonthlyEmployeeDTO>, IEnumerable<EmployeeSalary>>(employeeMonthlyList).ToList());
+
+                return respuesta;
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+            
 
         }
 
         public async Task<List<EmployeeSalary>> GetById(int Id)
         {
-            List<EmployeeSalary> respuesta = new List<EmployeeSalary>();
-            EmployeeSalary employeeSalary = new EmployeeSalary();
-            var result = await _EmployeeLogic.GetAll();
-
-            var employee = result.Where(x => x.Id == Id).FirstOrDefault();
-
-            if(employee.ContractTypeName == ConstantValues.ContractHourly)
+            try
             {
-                var employeeHourly = Mapper.Map<Employee, HourlyEmployeeDTO>(employee);
-                employeeHourly.CalculateSalary();
-                employeeSalary = Mapper.Map<HourlyEmployeeDTO, EmployeeSalary>(employeeHourly);
+                List<EmployeeSalary> respuesta = new List<EmployeeSalary>();
+                EmployeeSalary employeeSalary = new EmployeeSalary();
+                var result = await _EmployeeLogic.GetAll();
+
+                var employee = result.Where(x => x.Id == Id).FirstOrDefault();
+
+                if (employee.ContractTypeName == ConstantValues.ContractHourly)
+                {
+                    var employeeHourly = Mapper.Map<Employee, HourlyEmployeeDTO>(employee);
+                    employeeHourly.CalculateSalary();
+                    employeeSalary = Mapper.Map<HourlyEmployeeDTO, EmployeeSalary>(employeeHourly);
+                }
+                else
+                {
+                    var employeeMonthly = Mapper.Map<Employee, MonthlyEmployeeDTO>(employee);
+                    employeeMonthly.CalculateSalary();
+                    employeeSalary = Mapper.Map<MonthlyEmployeeDTO, EmployeeSalary>(employeeMonthly);
+                }
+
+                respuesta.Add(employeeSalary);
+
+                return respuesta;
             }
-            else
+            catch (Exception)
             {
-                var employeeMonthly = Mapper.Map<Employee, MonthlyEmployeeDTO>(employee);
-                employeeMonthly.CalculateSalary();
-                employeeSalary = Mapper.Map<MonthlyEmployeeDTO, EmployeeSalary>(employeeMonthly);
+
+                throw;
             }
-
-            respuesta.Add(employeeSalary);
-
-            return respuesta;
 
         }
     }

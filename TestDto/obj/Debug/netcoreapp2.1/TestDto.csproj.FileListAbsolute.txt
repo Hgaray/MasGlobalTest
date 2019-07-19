@@ -15,3 +15,12 @@ F:\TechnicalTest.MasGlobal.Hgaray\TestDto\obj\Debug\netcoreapp2.1\TestDto.Assemb
 F:\TechnicalTest.MasGlobal.Hgaray\TestDto\obj\Debug\netcoreapp2.1\TestDto.AssemblyInfo.cs
 F:\TechnicalTest.MasGlobal.Hgaray\TestDto\obj\Debug\netcoreapp2.1\TestDto.dll
 F:\TechnicalTest.MasGlobal.Hgaray\TestDto\obj\Debug\netcoreapp2.1\TestDto.pdb
+D:\Test\MasGlobal\MasGlobalTest\TestDto\bin\Debug\netcoreapp2.1\TestDto.deps.json
+D:\Test\MasGlobal\MasGlobalTest\TestDto\bin\Debug\netcoreapp2.1\TestDto.dll
+D:\Test\MasGlobal\MasGlobalTest\TestDto\bin\Debug\netcoreapp2.1\TestDto.pdb
+D:\Test\MasGlobal\MasGlobalTest\TestDto\obj\Debug\netcoreapp2.1\TestDto.csproj.CoreCompileInputs.cache
+D:\Test\MasGlobal\MasGlobalTest\TestDto\obj\Debug\netcoreapp2.1\TestDto.AssemblyInfoInputs.cache
+D:\Test\MasGlobal\MasGlobalTest\TestDto\obj\Debug\netcoreapp2.1\TestDto.AssemblyInfo.cs
+D:\Test\MasGlobal\MasGlobalTest\TestDto\obj\Debug\netcoreapp2.1\TestDto.dll
+D:\Test\MasGlobal\MasGlobalTest\TestDto\obj\Debug\netcoreapp2.1\TestDto.pdb
+D:\Test\MasGlobal\MasGlobalTest\TestDto\obj\Debug\netcoreapp2.1\TestDto.csprojAssemblyReference.cache
