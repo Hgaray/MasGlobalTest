@@ -42,7 +42,7 @@ namespace TechnicalTest.MasGlobal.Hgaray
                 options.DescribeAllEnumsAsStrings();
                 options.SwaggerDoc("v1", new Swashbuckle.AspNetCore.Swagger.Info()
                 {
-                    Title = "Maintenances - Maintenance HTTP API",
+                    Title = "Hgaray MasGlobal Test",
                     Version = "v1",
                     Description = "Maintenances Statutes",
                     TermsOfService = "Statutes"

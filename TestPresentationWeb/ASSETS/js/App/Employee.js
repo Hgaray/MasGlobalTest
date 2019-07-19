@@ -23,7 +23,9 @@ function SearchById(Id) {
         success: function (respuesta) {
 
 
-            var tablaBody = "";            
+            var tablaBody = "<table id='tblClientes' class='table table - bordered table - hover'><thead>";
+            tablaBody += "<tr><th>Id Employee</th><th>Employee Name</th><th>Contract Type</th><th>Role Name</th><th>Rol Description</th><th>Annual Salary</th></tr >";
+            tablaBody += " </thead><tbody>";
 
             $.each(respuesta, function (indice, item) {
 
@@ -35,14 +37,10 @@ function SearchById(Id) {
                 tablaBody += "<td>" + item.RoleDescription + "</td>";
                 tablaBody += "<td>" + item.AnnualSalary + "</td>";
                 tablaBody += "</tr> ";
-
-            });
-
-
-           
-
-
-            $('#tblClientes tbody').append(tablaBody);
+               
+            });            
+            tablaBody += "<tbody></table>"
+            $("#tblClientes").append(tablaBody);
         },
         error: function (jqXHR, textStatus, errorThrown) {
             console.log(textStatus + ' ' + errorThrown);

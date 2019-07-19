@@ -12,6 +12,12 @@ namespace TestPresentationWeb.Controllers
 {
     public class EmployeeController : Controller
     {
+
+
+        private string getAllEmployees = "GetAllEmployees";
+        private string getEmployeesById = "GetAllEmployeeById/?Id=";
+
+
         // GET: Employee
         public ActionResult EmployeeView()
         {
@@ -27,17 +33,18 @@ namespace TestPresentationWeb.Controllers
                 var httpClient = new HttpClient();
                 var content = new HttpResponseMessage();
 
-
+                url = System.Configuration.ConfigurationManager.AppSettings["ApiEmployee"].ToString();
                 if (string.IsNullOrEmpty(Id))
                 {
-                    url = "https://localhost:44315/api/employee/GetAllEmployees";
+                    
+                    url += getAllEmployees;
                     content = httpClient.GetAsync(url).Result;
                     var json = JsonConvert.DeserializeObject<IEnumerable<Employee>>(content.Content.ReadAsStringAsync().Result);
                     return Json(json, JsonRequestBehavior.AllowGet);
                 }
                 else
                 {
-                    url += "https://localhost:44315/api/employee/GetAllEmployeeById/?Id=" + Convert.ToInt32(Id);
+                    url += getEmployeesById + Convert.ToInt32(Id);
                     content = httpClient.GetAsync(url).Result;
                     var json = JsonConvert.DeserializeObject<IEnumerable<Employee>>(content.Content.ReadAsStringAsync().Result);
                     return Json(json, JsonRequestBehavior.AllowGet);
