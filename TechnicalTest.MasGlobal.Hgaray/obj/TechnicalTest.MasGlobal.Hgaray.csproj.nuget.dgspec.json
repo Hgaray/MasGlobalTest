@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Test\\MasGlobal\\MasGlobalTest\\TechnicalTest.MasGlobal.Hgaray\\TechnicalTest.MasGlobal.Hgaray.csproj": {}
+    "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TechnicalTest.MasGlobal.Hgaray\\TechnicalTest.MasGlobal.Hgaray.csproj": {}
   },
   "projects": {
-    "D:\\Test\\MasGlobal\\MasGlobalTest\\TechnicalTest.MasGlobal.Hgaray\\TechnicalTest.MasGlobal.Hgaray.csproj": {
+    "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TechnicalTest.MasGlobal.Hgaray\\TechnicalTest.MasGlobal.Hgaray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test\\MasGlobal\\MasGlobalTest\\TechnicalTest.MasGlobal.Hgaray\\TechnicalTest.MasGlobal.Hgaray.csproj",
+        "projectUniqueName": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TechnicalTest.MasGlobal.Hgaray\\TechnicalTest.MasGlobal.Hgaray.csproj",
         "projectName": "TechnicalTest.MasGlobal.Hgaray",
-        "projectPath": "D:\\Test\\MasGlobal\\MasGlobalTest\\TechnicalTest.MasGlobal.Hgaray\\TechnicalTest.MasGlobal.Hgaray.csproj",
-        "packagesPath": "C:\\Users\\Garay\\.nuget\\packages\\",
-        "outputPath": "D:\\Test\\MasGlobal\\MasGlobalTest\\TechnicalTest.MasGlobal.Hgaray\\obj\\",
+        "projectPath": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TechnicalTest.MasGlobal.Hgaray\\TechnicalTest.MasGlobal.Hgaray.csproj",
+        "packagesPath": "C:\\Users\\hgaray\\.nuget\\packages\\",
+        "outputPath": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TechnicalTest.MasGlobal.Hgaray\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Garay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hgaray\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,17 +32,17 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "D:\\Test\\MasGlobal\\MasGlobalTest\\TestDao\\TestDao.csproj": {
-                "projectPath": "D:\\Test\\MasGlobal\\MasGlobalTest\\TestDao\\TestDao.csproj"
+              "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestDao\\TestDao.csproj": {
+                "projectPath": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestDao\\TestDao.csproj"
               },
-              "D:\\Test\\MasGlobal\\MasGlobalTest\\TestDto\\TestDto.csproj": {
-                "projectPath": "D:\\Test\\MasGlobal\\MasGlobalTest\\TestDto\\TestDto.csproj"
+              "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestDto\\TestDto.csproj": {
+                "projectPath": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestDto\\TestDto.csproj"
               },
-              "D:\\Test\\MasGlobal\\MasGlobalTest\\TestHelpers\\TestHelpers.csproj": {
-                "projectPath": "D:\\Test\\MasGlobal\\MasGlobalTest\\TestHelpers\\TestHelpers.csproj"
+              "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestHelpers\\TestHelpers.csproj": {
+                "projectPath": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestHelpers\\TestHelpers.csproj"
               },
-              "D:\\Test\\MasGlobal\\MasGlobalTest\\TestLogic\\TestLogic.csproj": {
-                "projectPath": "D:\\Test\\MasGlobal\\MasGlobalTest\\TestLogic\\TestLogic.csproj"
+              "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestLogic\\TestLogic.csproj": {
+                "projectPath": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestLogic\\TestLogic.csproj"
               }
             }
           }
@@ -72,7 +72,6 @@
               "version": "[2.1.2, )"
             },
             "Microsoft.NETCore.App": {
-              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
@@ -80,10 +79,6 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[2.1.1, )"
-            },
-            "Swashbuckle": {
-              "target": "Package",
-              "version": "[5.6.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -98,21 +93,21 @@
         }
       }
     },
-    "D:\\Test\\MasGlobal\\MasGlobalTest\\TestDao\\TestDao.csproj": {
+    "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestDao\\TestDao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test\\MasGlobal\\MasGlobalTest\\TestDao\\TestDao.csproj",
+        "projectUniqueName": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestDao\\TestDao.csproj",
         "projectName": "TestDao",
-        "projectPath": "D:\\Test\\MasGlobal\\MasGlobalTest\\TestDao\\TestDao.csproj",
-        "packagesPath": "C:\\Users\\Garay\\.nuget\\packages\\",
-        "outputPath": "D:\\Test\\MasGlobal\\MasGlobalTest\\TestDao\\obj\\",
+        "projectPath": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestDao\\TestDao.csproj",
+        "packagesPath": "C:\\Users\\hgaray\\.nuget\\packages\\",
+        "outputPath": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestDao\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Garay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hgaray\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -126,11 +121,11 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "D:\\Test\\MasGlobal\\MasGlobalTest\\TestDto\\TestDto.csproj": {
-                "projectPath": "D:\\Test\\MasGlobal\\MasGlobalTest\\TestDto\\TestDto.csproj"
+              "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestDto\\TestDto.csproj": {
+                "projectPath": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestDto\\TestDto.csproj"
               },
-              "D:\\Test\\MasGlobal\\MasGlobalTest\\TestHelpers\\TestHelpers.csproj": {
-                "projectPath": "D:\\Test\\MasGlobal\\MasGlobalTest\\TestHelpers\\TestHelpers.csproj"
+              "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestHelpers\\TestHelpers.csproj": {
+                "projectPath": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestHelpers\\TestHelpers.csproj"
               }
             }
           }
@@ -185,21 +180,21 @@
         }
       }
     },
-    "D:\\Test\\MasGlobal\\MasGlobalTest\\TestDto\\TestDto.csproj": {
+    "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestDto\\TestDto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test\\MasGlobal\\MasGlobalTest\\TestDto\\TestDto.csproj",
+        "projectUniqueName": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestDto\\TestDto.csproj",
         "projectName": "TestDto",
-        "projectPath": "D:\\Test\\MasGlobal\\MasGlobalTest\\TestDto\\TestDto.csproj",
-        "packagesPath": "C:\\Users\\Garay\\.nuget\\packages\\",
-        "outputPath": "D:\\Test\\MasGlobal\\MasGlobalTest\\TestDto\\obj\\",
+        "projectPath": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestDto\\TestDto.csproj",
+        "packagesPath": "C:\\Users\\hgaray\\.nuget\\packages\\",
+        "outputPath": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestDto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Garay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hgaray\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -239,21 +234,21 @@
         }
       }
     },
-    "D:\\Test\\MasGlobal\\MasGlobalTest\\TestHelpers\\TestHelpers.csproj": {
+    "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestHelpers\\TestHelpers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test\\MasGlobal\\MasGlobalTest\\TestHelpers\\TestHelpers.csproj",
+        "projectUniqueName": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestHelpers\\TestHelpers.csproj",
         "projectName": "TestHelpers",
-        "projectPath": "D:\\Test\\MasGlobal\\MasGlobalTest\\TestHelpers\\TestHelpers.csproj",
-        "packagesPath": "C:\\Users\\Garay\\.nuget\\packages\\",
-        "outputPath": "D:\\Test\\MasGlobal\\MasGlobalTest\\TestHelpers\\obj\\",
+        "projectPath": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestHelpers\\TestHelpers.csproj",
+        "packagesPath": "C:\\Users\\hgaray\\.nuget\\packages\\",
+        "outputPath": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestHelpers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Garay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hgaray\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -293,21 +288,21 @@
         }
       }
     },
-    "D:\\Test\\MasGlobal\\MasGlobalTest\\TestLogic\\TestLogic.csproj": {
+    "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestLogic\\TestLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test\\MasGlobal\\MasGlobalTest\\TestLogic\\TestLogic.csproj",
+        "projectUniqueName": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestLogic\\TestLogic.csproj",
         "projectName": "TestLogic",
-        "projectPath": "D:\\Test\\MasGlobal\\MasGlobalTest\\TestLogic\\TestLogic.csproj",
-        "packagesPath": "C:\\Users\\Garay\\.nuget\\packages\\",
-        "outputPath": "D:\\Test\\MasGlobal\\MasGlobalTest\\TestLogic\\obj\\",
+        "projectPath": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestLogic\\TestLogic.csproj",
+        "packagesPath": "C:\\Users\\hgaray\\.nuget\\packages\\",
+        "outputPath": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Garay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hgaray\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -321,11 +316,11 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "D:\\Test\\MasGlobal\\MasGlobalTest\\TestDao\\TestDao.csproj": {
-                "projectPath": "D:\\Test\\MasGlobal\\MasGlobalTest\\TestDao\\TestDao.csproj"
+              "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestDao\\TestDao.csproj": {
+                "projectPath": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestDao\\TestDao.csproj"
               },
-              "D:\\Test\\MasGlobal\\MasGlobalTest\\TestDto\\TestDto.csproj": {
-                "projectPath": "D:\\Test\\MasGlobal\\MasGlobalTest\\TestDto\\TestDto.csproj"
+              "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestDto\\TestDto.csproj": {
+                "projectPath": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestDto\\TestDto.csproj"
               }
             }
           }

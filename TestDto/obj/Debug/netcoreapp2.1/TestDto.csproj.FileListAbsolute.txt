@@ -24,3 +24,12 @@ D:\Test\MasGlobal\MasGlobalTest\TestDto\obj\Debug\netcoreapp2.1\TestDto.Assembly
 D:\Test\MasGlobal\MasGlobalTest\TestDto\obj\Debug\netcoreapp2.1\TestDto.dll
 D:\Test\MasGlobal\MasGlobalTest\TestDto\obj\Debug\netcoreapp2.1\TestDto.pdb
 D:\Test\MasGlobal\MasGlobalTest\TestDto\obj\Debug\netcoreapp2.1\TestDto.csprojAssemblyReference.cache
+D:\PruebasConcepto\Test\MasGlobalTest\TestDto\bin\Debug\netcoreapp2.1\TestDto.deps.json
+D:\PruebasConcepto\Test\MasGlobalTest\TestDto\bin\Debug\netcoreapp2.1\TestDto.dll
+D:\PruebasConcepto\Test\MasGlobalTest\TestDto\bin\Debug\netcoreapp2.1\TestDto.pdb
+D:\PruebasConcepto\Test\MasGlobalTest\TestDto\obj\Debug\netcoreapp2.1\TestDto.csprojAssemblyReference.cache
+D:\PruebasConcepto\Test\MasGlobalTest\TestDto\obj\Debug\netcoreapp2.1\TestDto.csproj.CoreCompileInputs.cache
+D:\PruebasConcepto\Test\MasGlobalTest\TestDto\obj\Debug\netcoreapp2.1\TestDto.AssemblyInfoInputs.cache
+D:\PruebasConcepto\Test\MasGlobalTest\TestDto\obj\Debug\netcoreapp2.1\TestDto.AssemblyInfo.cs
+D:\PruebasConcepto\Test\MasGlobalTest\TestDto\obj\Debug\netcoreapp2.1\TestDto.dll
+D:\PruebasConcepto\Test\MasGlobalTest\TestDto\obj\Debug\netcoreapp2.1\TestDto.pdb

@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Test\\MasGlobal\\MasGlobalTest\\TestHelpers\\TestHelpers.csproj": {}
+    "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestHelpers\\TestHelpers.csproj": {}
   },
   "projects": {
-    "D:\\Test\\MasGlobal\\MasGlobalTest\\TestHelpers\\TestHelpers.csproj": {
+    "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestHelpers\\TestHelpers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Test\\MasGlobal\\MasGlobalTest\\TestHelpers\\TestHelpers.csproj",
+        "projectUniqueName": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestHelpers\\TestHelpers.csproj",
         "projectName": "TestHelpers",
-        "projectPath": "D:\\Test\\MasGlobal\\MasGlobalTest\\TestHelpers\\TestHelpers.csproj",
-        "packagesPath": "C:\\Users\\Garay\\.nuget\\packages\\",
-        "outputPath": "D:\\Test\\MasGlobal\\MasGlobalTest\\TestHelpers\\obj\\",
+        "projectPath": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestHelpers\\TestHelpers.csproj",
+        "packagesPath": "C:\\Users\\hgaray\\.nuget\\packages\\",
+        "outputPath": "D:\\PruebasConcepto\\Test\\MasGlobalTest\\TestHelpers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Garay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hgaray\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

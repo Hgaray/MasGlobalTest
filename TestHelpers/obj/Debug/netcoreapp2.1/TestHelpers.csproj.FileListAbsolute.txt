@@ -24,3 +24,12 @@ D:\Test\MasGlobal\MasGlobalTest\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.
 D:\Test\MasGlobal\MasGlobalTest\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.dll
 D:\Test\MasGlobal\MasGlobalTest\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.pdb
 D:\Test\MasGlobal\MasGlobalTest\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.csprojAssemblyReference.cache
+D:\PruebasConcepto\Test\MasGlobalTest\TestHelpers\bin\Debug\netcoreapp2.1\TestHelpers.deps.json
+D:\PruebasConcepto\Test\MasGlobalTest\TestHelpers\bin\Debug\netcoreapp2.1\TestHelpers.dll
+D:\PruebasConcepto\Test\MasGlobalTest\TestHelpers\bin\Debug\netcoreapp2.1\TestHelpers.pdb
+D:\PruebasConcepto\Test\MasGlobalTest\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.csprojAssemblyReference.cache
+D:\PruebasConcepto\Test\MasGlobalTest\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.csproj.CoreCompileInputs.cache
+D:\PruebasConcepto\Test\MasGlobalTest\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.AssemblyInfoInputs.cache
+D:\PruebasConcepto\Test\MasGlobalTest\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.AssemblyInfo.cs
+D:\PruebasConcepto\Test\MasGlobalTest\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.dll
+D:\PruebasConcepto\Test\MasGlobalTest\TestHelpers\obj\Debug\netcoreapp2.1\TestHelpers.pdb

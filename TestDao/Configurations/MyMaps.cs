@@ -27,5 +27,10 @@ namespace TestDao.Configurations
                 cfg.CreateMap<Models.Employee, Model.Employee>();
             });
         }
+
+        public static void TearDown()
+        {
+            AutoMapper.Mapper.Reset();
+        }
     }
 }

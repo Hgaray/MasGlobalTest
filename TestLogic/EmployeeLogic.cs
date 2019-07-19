@@ -23,6 +23,10 @@ namespace TestLogic
             _EmployeeLogic = employeeLogic;
         }
 
+        public EmployeeLogic()
+        {
+
+        }
 
         public async Task<List<EmployeeSalary>> GetAll()
         {
@@ -46,7 +50,7 @@ namespace TestLogic
 
                 return respuesta;
             }
-            catch (Exception)
+            catch (Exception ex)
             {
 
                 throw;
